@@ -73,9 +73,9 @@ The report has been created using data analytics and visualization techniques in
 ## Installation and Usage
 1. Clone this repository:
     ```bash
-    git clone https://github.com/your-username/annual-store-report-2024.git
+    git clone https://github.com/OfficialRatnakar/Offline_Store_Dashboard.git)
     ```
-2. Open the Excel file (`Annual_Store_Report_2024.xlsx`).
+2. Open the Excel file (`Store_Report_2024.xlsx`).
 3. Use the slicers on the left side to filter the data by month, sales channel, or product category.
 4. Analyze the interactive charts and graphs to gain insights into the store's performance for the year 2024.
 
