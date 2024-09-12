@@ -1,5 +1,3 @@
-Here’s a detailed README that you can use for your GitHub repository based on the data analytics project:
-
 ---
 
 # Annual Store Report 2024 - Data Analytics Project
@@ -75,7 +73,7 @@ The report has been created using data analytics and visualization techniques in
     ```bash
     git clone https://github.com/OfficialRatnakar/Offline_Store_Dashboard.git)
     ```
-2. Open the Excel file (`Store_Report_2024.xlsx`).
+2. Open the Excel file (`Store_Data.xlsx`).
 3. Use the slicers on the left side to filter the data by month, sales channel, or product category.
 4. Analyze the interactive charts and graphs to gain insights into the store's performance for the year 2024.
 
@@ -93,4 +91,3 @@ For any inquiries, feel free to reach out via [vishalratnakar453@gmail.com](mail
 
 ---
 
-This README provides an overview of the project, key insights derived from the data, and instructions for usage and future development. You can adjust or expand upon these sections based on the specifics of your project.
